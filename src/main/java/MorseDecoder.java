@@ -86,7 +86,22 @@ public class MorseDecoder {
         // else if ispower and not waspower
         // else if issilence and wassilence
         // else if issilence and not wassilence
-
+boolean ispower = true;
+boolean waspower = true;
+boolean issilence = true;
+boolean wassilence = true;
+if () {
+    ispower = false;
+}
+if () {
+    waspower = false;
+}
+if () {
+    issilence = false;
+}
+if () {
+    wassilence = false;
+}
         return "";
     }
 
